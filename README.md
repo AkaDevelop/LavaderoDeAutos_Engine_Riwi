@@ -44,7 +44,7 @@ El proyecto busca fortalecer los fundamentos de JavaScript, el razonamiento lóg
 
 ## Modelo de datos
 
-Redefinido en estructura de datos (tipo dict) simulando relaciones entre tablas como una BD relacional(SQL).
+Redefiniendo la estructura de los datos (tipo dict) simulando relaciones entre diccionarios como las tablas una BD relacional(SQL).
 
 ## 🛠️ Tecnologías
 
